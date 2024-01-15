@@ -2,7 +2,7 @@
 
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e1150bc9-fabe-471d-bf89-c197754c42b8/deploy-status)](https://app.netlify.com/sites/ayushedith/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e1150bc9-fabe-471d-bf89-c197754c42b8/deploy-status)](https://app.netlify.com/sites/ayushedith/deploys)<br>
 <a href="https://discord.com/users/581525444424368131">
 <img src="https://discord.c99.nl/widget/theme-3/581525444424368131.png" alt="Discord"/>
 </a>
