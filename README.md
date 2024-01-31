@@ -15,7 +15,7 @@
 
  **Information:**
 
-- 🔭 I’m currently working on  **[yellow.ai](https://yellow.ai/)**
+- 🔭 I’m currently working at  **[yellow.ai](https://yellow.ai/)**
 - 🌱 I’m currently learning  **React and Advance frontend tools**
 
 
