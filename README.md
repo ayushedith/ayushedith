@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋, I'm Ayush, A very good procrastinator</h1>
+<h1 align="center">Hey👋, I'm Ayush</h1>
 
 
 
