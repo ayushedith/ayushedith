@@ -2,7 +2,6 @@
 
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e1150bc9-fabe-471d-bf89-c197754c42b8/deploy-status)](https://app.netlify.com/)
 ![status](https://api.statusbadges.me/badge/status/581525444424368131?simple=true)
 ![playing](https://api.statusbadges.me/badge/playing/581525444424368131)
 ![vscode](https://api.statusbadges.me/badge/vscode/581525444424368131)
