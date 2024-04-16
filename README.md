@@ -8,7 +8,7 @@
 
 ## **Information:**
 
-- 🔭 I’m currently working at  **[yellow.ai](https://yellow.ai/)**
+- 🔭 I’m currently working at  **[goldman sachs](https://www.goldmansachs.com)**
 - 🌱 I’m currently learning  **React and Advance frontend tools**
 
 
