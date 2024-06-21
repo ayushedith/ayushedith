@@ -3,7 +3,9 @@
 I'm EDiTH, a programmer from India enjoying coding and creating various projects. You can checkout the technologies I like to use below with some of my projects aswell. I like to selfhost everything I can at home and you can see the result of this in my GitHub repository where I save all my configs & co.
 Checkout my website under https://edithdb.xyz
 
-<img src="https://cdn.discordapp.com/attachments/1237477289210413113/1251484588048650280/KittyBot.gif?ex=666ebf59&is=666d6dd9&hm=b09336529d6fb97da78d299961f73c255b43f5d2e34807e84ac8073c5c492725&">
+<div align="right">
+<img src="https://media.giphy.com/media/l0Iyoy5VglR6QKJiw/giphy.gif" width="100%" height="100%" style="position:absolute" />
+</div>  
 
 ## Technologies I use
 
@@ -29,7 +31,7 @@ Checkout my website under https://edithdb.xyz
 </p>
 
 ### My discord profile status
-<br>
+
 <a href="https://discord.com/users/581525444424368131">
 <img src="https://discord.c99.nl/widget/theme-2/581525444424368131.png" alt="Discord"/>
 </a>
