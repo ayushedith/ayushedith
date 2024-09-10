@@ -2,7 +2,7 @@
 
 # Hi there
 
-I'm EDiTH, a programmer from India enjoying coding and creating various projects. You can checkout the technologies I like to use below with some of my projects aswell. I like to selfhost everything I can at home and you can see the result of this in my GitHub repository where I save all my configs & co.
+I'm ayush, a programmer from India enjoying coding and creating various projects. You can checkout the technologies I like to use below with some of my projects aswell. I like to selfhost everything I can at home and you can see the result of this in my GitHub repository where I save all my configs & co.
 Checkout my website under https://edithdb.xyz
 
   <a href="https://edithdb.xyz">
