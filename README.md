@@ -5,7 +5,7 @@ I'm ayush, a programmer from India enjoying coding and creating various projects
 Checkout my website under https://edithdb.xyz
 
   <a href="https://edithdb.xyz">
-    <img src="https://skillicons.dev/icons?i=ts,js,express,githubactions,nodejs,git,mongo,docker,discord,docker,discordjs,nextjs,nginx,react,svelte&coding=cute" />
+    <img src="https://skillicons.dev/icons?i=ts,js,express,githubactions,nodejs,git,mongo,docker,discord,discordjs,nextjs,nginx,react,svelte&coding=cute" />
   </a>
 <details>
   <summary>Coding Stats</summary>
