@@ -1,4 +1,4 @@
-![status](https://api.statusbadges.me/badge/status/581525444424368131?simple=true)  ![playing](https://api.statusbadges.me/badge/playing/581525444424368131)  ![vscode](https://api.statusbadges.me/badge/vscode/581525444424368131)  
+![status](https://api.statusbadges.me/badge/status/581525444424368131?simple=true)   
 # Hi there
 
 I'm ayush, a programmer from India enjoying coding and creating various projects. You can checkout the technologies I like to use below with some of my projects aswell. I like to selfhost everything I can at home and you can see the result of this in my GitHub repository where I save all my configs & co.
